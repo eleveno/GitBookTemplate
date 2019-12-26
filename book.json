@@ -1,0 +1,90 @@
+{
+    "title": "Guojie's Doc",
+    "author": "Guojie",
+    "description": "select * from learn",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "我的世界": "https://github.com/eleveno"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "splitter",
+        "expandable-chapters-small",
+        "anchors",
+        "github",
+        "github-buttons",
+        "donate",
+        "sharing-plus",
+        "anchor-navigation-ex",
+        "favicon"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/eleveno"
+        },
+        "github-buttons": {
+            "buttons": [
+                {
+                    "user": "Blankj",
+                    "repo": "glory",
+                    "type": "star",
+                    "size": "small",
+                    "count": true
+                }
+            ]
+        },
+        "donate": {
+            "alipay": "./source/images/test.JPG",
+            "title": "",
+            "button": "赞赏",
+            "alipayText": " "
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": true,
+            "google": true,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": [
+                "google",
+                "facebook",
+                "weibo",
+                "twitter",
+                "qq",
+                "qzone",
+                "linkedin",
+                "pocket"
+            ]
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false
+        },
+        "favicon": {
+            "shortcut": "./source/images/test.JPG",
+            "bookmark": "./source/images/test.JPG",
+            "appleTouch": "./source/images/test.JPG",
+            "appleTouchMore": {
+                "120x120": "./source/images/test.JPG",
+                "180x180": "./source/images/test.JPG"
+            }
+        }
+    }
+}
