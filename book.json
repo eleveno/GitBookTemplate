@@ -1,5 +1,5 @@
 {
-    "title": "Guojie's Doc",
+    "title": "GitBook使用教程",
     "author": "Guojie",
     "description": "select * from learn",
     "language": "zh-hans",
@@ -9,7 +9,7 @@
     },
     "links": {
         "sidebar": {
-            "我的世界": "https://github.com/eleveno"
+            "小羊窝": "https://eleveno.github.io/"
         }
     },
     "plugins": [
@@ -26,12 +26,12 @@
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/eleveno"
+            "url": "https://eleveno.github.io/"
         },
         "github-buttons": {
             "buttons": [
                 {
-                    "user": "Blankj",
+                    "user": "Eleveno",
                     "repo": "glory",
                     "type": "star",
                     "size": "small",
@@ -40,28 +40,28 @@
             ]
         },
         "donate": {
-            "alipay": "/source/images/test.JPG",
-            "title": "",
+            "alipay": "/source/images/alipay_collect_qrcode.JPG",
+            "title": "救救孩子吧",
             "button": "赞赏",
-            "alipayText": " "
+            "alipayText": "可否赏小爷几个包子"
         },
         "sharing": {
             "douban": false,
-            "facebook": true,
-            "google": true,
+            "facebook": false,
+            "google": false,
             "hatenaBookmark": false,
             "instapaper": false,
             "line": false,
             "linkedin": false,
             "messenger": false,
             "pocket": false,
-            "qq": false,
+            "qq": true,
             "qzone": false,
             "stumbleupon": false,
             "twitter": false,
             "viber": false,
             "vk": false,
-            "weibo": false,
+            "weibo": true,
             "whatsapp": false,
             "all": [
                 "google",

@@ -1,13 +1,5 @@
-# 警务通组件
+# GitBook简介
 
-目前警务中的自研组件如下
-* [Camera2Video-相机组件]()
-* [SoundSho-有声图片]()
-* [ServiceBus-服务总线]()
-* [LbsService-位置组件]()
-* [Reckon-应用中心统计]()
-* [jwtArms-警务通Mvvm框架]()
-* [Authorize-统一认证]()
-* [PublicClass-警务通公共类]()
-* [gprs-converter-警务通交互]()协议封装组件
-* [waterMark-屏幕水印]()
+Gitbook是一个命令行工具，可以把你的Markdown文件汇集成电子书，并提供PDF等多种格式输出。你可以把Gitbook生成的HTML发布出来，就形成了一个简单的静态网站。Gitbook还有一个同名的平台（gitbook.io），可以发布和销售电子书，并提供了一个Markdown客户端工具（支持Mac、Windows和Linux）帮助写作。以下是我在使用Gitbook中的笔记。
+
+首先Gitbook和Git/Github都没有什么关系。它只是一个build book的工具而已。但它的Git前缀的确引起了许多人的迷惑，起初我认为至少它也是个和Github类似的Git平台吧，但其实没什么关系，你只要懂几条markdown语法，不必理解任何与Git相关的东西就能用Gitbook了，不要为其名字迷惑。
